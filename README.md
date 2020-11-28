@@ -1,2 +1,2 @@
-# demo
-beginner in coding
+contains three files of gaming project
+
